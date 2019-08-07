@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 
+ruby '2.6.3'
+
 gem 'rails',                   '5.1.6.2'
 gem 'pg',                      '0.20.0'
 gem 'bcrypt',                  '3.1.12'
